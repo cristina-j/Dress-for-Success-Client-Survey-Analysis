@@ -21,3 +21,7 @@ The goal of the analysis was to evaluate client engagement across service types 
 - Remote sessions increased accessibility for specific client groups
 - Clients frequently utilized multiple services, highlighting cross-program impact
 - Feedback indicated demand for additional career advancement workshops
+
+## Deliverables
+
+[Dress for Success Client Survey Report](https://github.com/cristina-j/Dress-for-Success-Client-Survey-Analysis/blob/main/Dress%20for%20Success%20Client%20Survey%20Report.pdf)

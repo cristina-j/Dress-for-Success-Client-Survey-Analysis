@@ -13,8 +13,8 @@ The goal of the analysis was to evaluate client engagement across service types 
 
 ## Methods & Tools
 - Data Cleaning: Excel (handled nulls, duplicates, and standardized location data)
-- Data Analysis: Pivot tables, formulas, and Excel dashboards
-- Reporting: Visual storytelling and insights summarized in Excel Dashboard.
+- Data Analysis: Pivot tables, formulas, and an Excel dashboard
+- Reporting: Microsoft PowerPoint Presentation and visual storytelling and insights summarized in an Excel Dashboard
 
 ## Key Insights
 - Certain service locations showed consistently higher engagement
